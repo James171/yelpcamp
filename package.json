@@ -14,7 +14,7 @@
     "bson": "^4.0.2",
     "connect-flash": "^0.1.1",
     "ejs": "^2.3.4",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-session": "^1.11.3",
     "method-override": "^2.3.5",
     "mongoose": "^4.1.12",
